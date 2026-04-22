@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "u4cqemrj3b8ql33d7htdn92upb",
+      "domain": "uat.thecoachcompany.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GCLB",
+      "value": "CLLghb7ts_3LgAEQAw",
+      "domain": "uat.thecoachcompany.co.uk",
+      "path": "/",
+      "expires": 1774432774.821417,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
